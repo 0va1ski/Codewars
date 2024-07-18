@@ -34,4 +34,5 @@ Codewars - сервис для программистов, позволяющи�
 ![image](https://github.com/user-attachments/assets/8713c365-9a12-4f30-8bbc-aeb4723a4433)
 
 <strong>6) Осталось тыкнуть на "каратиста" в левой баре. Теперь можно решать любые задачки на сайте!</strong>
-![image](https://github.com/user-attachments/assets/07ae05a4-3b5b-42dd-b304-e624a1cc5bc0)
+![image](https://github.com/user-attachments/assets/1a96d7d3-e112-45fb-8e33-fee80933b9f2)
+
